@@ -1,6 +1,6 @@
 {
   "name": "reactniceboxcard",
-  "version": "1.1.1",
+  "version": "1.0.3",
   "description": "This is a simple Card box which gives you nice look and feel and already code is bulided",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

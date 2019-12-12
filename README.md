@@ -1,10 +1,9 @@
-# niceCardbox
+# ReactNiceBoxCard
 
-`niceCardbox` is a prebuild code which make your code easy to make the layout for card or any component.
+`ReactNiceBoxCard` is a prebuild code which make your code easy to make the layout for card or any component.
 
 # Installation
-``` npm i reactnicecardbox
-```
+npm i reactnicecardbox
 
 # Usage
 ```

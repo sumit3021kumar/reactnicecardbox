@@ -1,21 +1,20 @@
 {
-  "name": "reactnicecardbox",
-  "version": "1.0.0",
+  "name": "reactniceboxcard",
+  "version": "1.1.1",
   "description": "This is a simple Card box which gives you nice look and feel and already code is bulided",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sumit3021kumar/nicemodalbox.git"
+    "url": "https://github.com/sumit3021kumar/reactnicecardbox"
   },
   "author": "sumit",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sumit3021kumar/nicemodalbox/issues"
+    "url": "https://github.com/sumit3021kumar/reactnicecardboxissues"
   },
-  "homepage": "https://github.com/sumit3021kumar/nicemodalbox#readme",
+  "homepage": "https://github.com/sumit3021kumar/reactnicecardbox#readme",
   "dependencies": {
     "reactstickyjs": "^1.0.1"
   }

@@ -3,8 +3,7 @@
 `niceCardbox` is a prebuild code which make your code easy to make the layout for card or any component.
 
 # Installation
-
-```npm install --save nicecardbox
+``` npm i reactnicecardbox
 ```
 
 # Usage

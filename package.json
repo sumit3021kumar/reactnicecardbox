@@ -1,6 +1,6 @@
 {
   "name": "reactniceboxcard",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "This is a simple Card box which gives you nice look and feel and already code is bulided",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,8 +14,5 @@
   "bugs": {
     "url": "https://github.com/sumit3021kumar/reactnicecardboxissues"
   },
-  "homepage": "https://github.com/sumit3021kumar/reactnicecardbox#readme",
-  "dependencies": {
-    "reactstickyjs": "^1.0.1"
-  }
+  "homepage": "https://github.com/sumit3021kumar/reactnicecardbox#readme"
 }
